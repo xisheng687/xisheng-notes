@@ -1,0 +1,14 @@
+title: 希声碎碎念
+description: 希声碎碎念的公开文章归档。
+url: https://xisheng687.github.io
+baseurl: /xisheng-notes
+markdown: kramdown
+permalink: /articles/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+

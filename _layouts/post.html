@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  <div class="meta">
+    {{ page.date | date: "%Y-%m-%d" }}
+    {% if page.author %} · {{ page.author }}{% endif %}
+  </div>
+  {% assign canonical_url = page.canonical_url | default: site.data.canonicals[page.slug] %}
+  {% if canonical_url %}
+  <p class="note">本文为公开备份，可以在这里阅读。搜索收录以 <a href="{{ canonical_url }}">xsssn.com 主站版本</a> 为准。</p>
+  {% endif %}
+  {{ content }}
+</article>
