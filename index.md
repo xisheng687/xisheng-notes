@@ -10,4 +10,7 @@ title: 希声碎碎念
 ## 文章归档
 
 - [AI一键的生成内容为什么没流量了？]({{ "/articles/2026/04/30/ai-content-traffic/" | relative_url }})
-
+- [AI 时代普通人的机会在哪里？AI 大会后，我的 19 条心得]({{ "/articles/2026/04/27/ai-conference-19-lessons/" | relative_url }})
+- [蒸馏了马斯克、乔布斯，可被丢掉的恰恰是最值钱的部分]({{ "/articles/2026/04/23/distilling-elon-jobs/" | relative_url }})
+- [提示词越长，AI就越笨]({{ "/articles/2025/11/11/long-prompts-make-ai-dumber/" | relative_url }})
+- [Perplexity推广日入$200？保姆教程，还白嫖一个月会员]({{ "/articles/2025/10/24/perplexity-comet-affiliate-guide/" | relative_url }})
