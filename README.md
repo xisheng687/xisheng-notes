@@ -8,6 +8,8 @@
 - 版本记录：文章内容可以被 Git 追踪，方便回溯。
 - 搜索补充：GitHub Pages 只作为镜像归档，SEO canonical 指向主站。
 
+阅读首页：<https://xisheng687.github.io/xisheng-notes/>
+
 主站：<https://xsssn.com>
 
 ## 文章
