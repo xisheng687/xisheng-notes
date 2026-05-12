@@ -69,7 +69,7 @@ Comet 和 Atlas 都被曝出安全漏洞，别在里面处理敏感信息
 
 这是我的推广链接：
 
-https://pplx.ai/xisheng18097663 
+https://pplx.ai/xisheng18097663
 
 复制链接粘贴到浏览器。
 
@@ -125,7 +125,7 @@ comet浏览器就会自动开始下载。
 
 如果需要可以用我的分销链接：
 
-https://pplx.ai/xisheng18097663 
+https://pplx.ai/xisheng18097663
 
 **怎么查看赚了多少钱？**
 

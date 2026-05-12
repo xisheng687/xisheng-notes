@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [如果段永平在AI时代](https://xisheng687.github.io/xisheng-notes/articles/2026/05/12/duan-yongping-ai-era/)
 - [AI一键的生成内容为什么没流量了？](https://xisheng687.github.io/xisheng-notes/articles/2026/04/30/ai-content-traffic/)
 - [AI 时代普通人的机会在哪里？AI 大会后，我的 19 条心得](https://xisheng687.github.io/xisheng-notes/articles/2026/04/27/ai-conference-19-lessons/)
 - [蒸馏了马斯克、乔布斯，可被丢掉的恰恰是最值钱的部分](https://xisheng687.github.io/xisheng-notes/articles/2026/04/23/distilling-elon-jobs/)

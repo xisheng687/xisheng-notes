@@ -9,6 +9,7 @@ title: 希声碎碎念
 
 ## 文章归档
 
+- [如果段永平在AI时代]({{ "/articles/2026/05/12/duan-yongping-ai-era/" | relative_url }})
 - [AI一键的生成内容为什么没流量了？]({{ "/articles/2026/04/30/ai-content-traffic/" | relative_url }})
 - [AI 时代普通人的机会在哪里？AI 大会后，我的 19 条心得]({{ "/articles/2026/04/27/ai-conference-19-lessons/" | relative_url }})
 - [蒸馏了马斯克、乔布斯，可被丢掉的恰恰是最值钱的部分]({{ "/articles/2026/04/23/distilling-elon-jobs/" | relative_url }})
