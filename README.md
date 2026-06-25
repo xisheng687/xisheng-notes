@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [用AI做小红书，亏麻了](https://xisheng687.github.io/xisheng-notes/articles/2026/06/25/ai-xiaohongshu-loss/)
 - [最新香港和澳门卡开通指南-附旅游指南](https://xisheng687.github.io/xisheng-notes/articles/2026/05/31/hong-kong-macau-card-guide/)
 - [小团队如何建立AI native 公司？我的9点建议](https://xisheng687.github.io/xisheng-notes/articles/2026/05/14/ai-native-company/)
 - [如果段永平在AI时代](https://xisheng687.github.io/xisheng-notes/articles/2026/05/12/duan-yongping-ai-era/)
