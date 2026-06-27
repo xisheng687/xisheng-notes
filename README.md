@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [美国嘉信证券开户最新流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/27/schwab-account-opening/)
 - [美国第一证券（Firstrade）最新开户流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/26/firstrade-account-opening/)
 - [用AI做小红书，亏麻了](https://xisheng687.github.io/xisheng-notes/articles/2026/06/25/ai-xiaohongshu-loss/)
 - [最新香港和澳门卡开通指南-附旅游指南](https://xisheng687.github.io/xisheng-notes/articles/2026/05/31/hong-kong-macau-card-guide/)
