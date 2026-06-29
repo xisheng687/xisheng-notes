@@ -14,6 +14,8 @@
 
 ## 文章
 
+- [AI做不好PPT](https://xisheng687.github.io/xisheng-notes/articles/2026/06/29/ai-ppt-workflow/)
+
 - [美国嘉信证券开户最新流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/27/schwab-account-opening/)
 - [美国第一证券（Firstrade）最新开户流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/26/firstrade-account-opening/)
 - [用AI做小红书，亏麻了](https://xisheng687.github.io/xisheng-notes/articles/2026/06/25/ai-xiaohongshu-loss/)
@@ -29,3 +31,4 @@
 ## 说明
 
 仓库里的内容是公开备份，读者阅读请优先打开 GitHub Pages 页面，而不是 `_posts/` 下的源码文件。
+
