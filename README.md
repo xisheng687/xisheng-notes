@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [孙宇晨：AI时代年轻人必须知道的10件事](https://xisheng687.github.io/xisheng-notes/articles/2026/10/11/sun-yuchen-ai-10-things/)
 - [AI做不好PPT](https://xisheng687.github.io/xisheng-notes/articles/2026/06/29/ai-ppt-workflow/)
 
 - [美国嘉信证券开户最新流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/27/schwab-account-opening/)
