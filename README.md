@@ -15,6 +15,16 @@
 ## 文章
 
 - [孙宇晨：AI时代年轻人必须知道的10件事](https://xisheng687.github.io/xisheng-notes/articles/2026/10/11/sun-yuchen-ai-10-things/)
+- [算账：AI 的真的贵吗？](https://xisheng687.github.io/xisheng-notes/articles/2026/10/08/ai-cost-math/)
+- [AI已经可以自动做电商了](https://xisheng687.github.io/xisheng-notes/articles/2026/10/07/ai-auto-ecommerce/)
+- [Claude老被封？注意这6点](https://xisheng687.github.io/xisheng-notes/articles/2026/10/06/claude-account-ban-tips/)
+- [Claude + Codex + Grok，就是王炸](https://xisheng687.github.io/xisheng-notes/articles/2026/10/04/claude-codex-grok/)
+- [赶快用 claude opus 5.5](https://xisheng687.github.io/xisheng-notes/articles/2026/09/28/use-claude-opus-5-5/)
+- [AI 时代，公司需要更多的人——蒋晖管理课的18条心得](https://xisheng687.github.io/xisheng-notes/articles/2026/09/27/jiang-hui-management-18-notes/)
+- [让 AI 带着 AI 干活：从小排老师学到的开发方法](https://xisheng687.github.io/xisheng-notes/articles/2026/09/09/ai-leading-ai-dev-method/)
+- [我好像发现了 AI 时代的捷径](https://xisheng687.github.io/xisheng-notes/articles/2026/09/08/ai-era-shortcut/)
+- [你发现的机会，迟早会被别人抢走](https://xisheng687.github.io/xisheng-notes/articles/2026/09/07/opportunities-get-taken/)
+- [再见了，OpenClaw 龙虾](https://xisheng687.github.io/xisheng-notes/articles/2026/09/06/goodbye-openclaw/)
 - [AI做不好PPT](https://xisheng687.github.io/xisheng-notes/articles/2026/06/29/ai-ppt-workflow/)
 
 - [美国嘉信证券开户最新流程记录](https://xisheng687.github.io/xisheng-notes/articles/2026/06/27/schwab-account-opening/)
