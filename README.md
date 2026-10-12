@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [个人的 AI系统怎么搭](https://xisheng687.github.io/xisheng-notes/articles/2026/10/12/personal-ai-system/)
 - [孙宇晨：AI时代年轻人必须知道的10件事](https://xisheng687.github.io/xisheng-notes/articles/2026/10/11/sun-yuchen-ai-10-things/)
 - [算账：AI 的真的贵吗？](https://xisheng687.github.io/xisheng-notes/articles/2026/10/08/ai-cost-math/)
 - [AI已经可以自动做电商了](https://xisheng687.github.io/xisheng-notes/articles/2026/10/07/ai-auto-ecommerce/)
