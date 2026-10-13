@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [蒸馏，其实没啥用](https://xisheng687.github.io/xisheng-notes/articles/2026/10/13/distillation-is-useless/)
 - [个人的 AI系统怎么搭](https://xisheng687.github.io/xisheng-notes/articles/2026/10/12/personal-ai-system/)
 - [孙宇晨：AI时代年轻人必须知道的10件事](https://xisheng687.github.io/xisheng-notes/articles/2026/10/11/sun-yuchen-ai-10-things/)
 - [算账：AI 的真的贵吗？](https://xisheng687.github.io/xisheng-notes/articles/2026/10/08/ai-cost-math/)
