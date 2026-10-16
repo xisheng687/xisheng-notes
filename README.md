@@ -14,6 +14,7 @@
 
 ## 文章
 
+- [做任何工作，用AI都仅需2步就能完成](https://xisheng687.github.io/xisheng-notes/articles/2026/10/17/ai-work-two-steps/)
 - [谷歌Gemini 4 来了，有点遗憾](https://xisheng687.github.io/xisheng-notes/articles/2026/10/15/gemini-4-a-bit-disappointing/)
 - [8个 X（推特）快速起号的方法](https://xisheng687.github.io/xisheng-notes/articles/2026/10/14/x-growth-8-methods/)
 - [蒸馏，其实没啥用](https://xisheng687.github.io/xisheng-notes/articles/2026/10/13/distillation-is-useless/)
